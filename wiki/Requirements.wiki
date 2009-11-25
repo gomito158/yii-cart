@@ -1,0 +1,12 @@
+#summary Requirements for project
+#labels Phase-Requirements
+= Requirements =
+
+ * Support friends URL
+ * Widgets
+ * Admins widgets
+ * Themes
+ * Plugins
+ * Export to *CSV*
+ * Sync from [http://www.commerceml.ru/standard.htm CommerceML]
+
